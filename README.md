@@ -86,8 +86,10 @@ GPA - 3.85/4.0 (Summa Cum Laude)
 | [🧾 Receipt Field Detection](https://github.com/hydromelonn229/Receipt-Field-Detection) | Computer Vision · AI | YOLOv8s model that detects 7 key fields in receipt images — trained on 624 annotated receipts with 3× augmentation |
 | [📉 Bank Customer Churn Analysis](https://github.com/hydromelonn229/Bank-Churn-Customer-Analysis) | Data Analytics | EDA on 10,000+ customer records, identifying a 20% churn rate and 700+ high-value retention targets |
 | [📊 HR Attrition Analysis](https://github.com/hydromelonn229/HR_data_analysis) | Workforce Analytics | 4-page Power BI dashboard across a 2M-record HR dataset covering salary equity and attrition drivers |
-| [🎬 Movie Success Optimisation](https://colab.research.google.com/drive/1l2mVwSs285kB0A5ZCgbldIYzirVIePtC) | Predictive Modelling | ML models predicting revenue and ratings from 30,000+ movie records |
-| [🚲 Cyclistic Case Study](https://github.com/hydromelonn229/Cyclistic_CaseStudy) | Marketing Analytics | 12 months of bike-share data analysed to surface behavioral trends between casual and annual riders |
+| [🎬 Movie Success Optimisation](https://colab.research.google.com/drive/1l2mVwSs285kB0A5ZCgbldIYzirVIePtC) | Predictive Modelling | ML models predicting revenue and ratings from 30,000+ movie records 
+| [🔧 DTG FieldLink](https://github.com/ZweLaPyae/DTG_FieldLink) | Field Service Management | Dual-platform FSM system for a live ISP client — admin web app + Flutter mobile app with real-time ticket tracking, Google Maps `.kmz` overlays, Firebase push notifications, and automated Excel billing reports.
 | [📋 AUREX Exam Automation](https://github.com/juliaizbroke/SeniorProject1) | Automation | End-to-end NLP pipeline that cuts exam paper preparation time by 95% |
+| [🚲 Cyclistic Case Study](https://github.com/hydromelonn229/Cyclistic_CaseStudy) | Marketing Analytics | 12 months of bike-share data analysed to surface behavioral trends between casual and annual riders |
+
 
 ---
