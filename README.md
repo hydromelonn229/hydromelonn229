@@ -61,6 +61,8 @@ GPA - 3.85/4.0 (Summa Cum Laude)
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
@@ -82,7 +84,7 @@ GPA - 3.85/4.0 (Summa Cum Laude)
 | Project | Category | Description |
 |---|---|---|
 | [🧾 Receipt Field Detection](https://github.com/hydromelonn229/Receipt-Field-Detection) | Computer Vision · AI | YOLOv8s model that detects 7 key fields in receipt images — trained on 624 annotated receipts with 3× augmentation |
-| [📉 Bank Customer Churn Analysis]([https://github.com/hydromelonn229](https://github.com/hydromelonn229/Bank-Churn-Customer-Analysis)) | Data Analytics | EDA on 10,000+ customer records, identifying a 20% churn rate and 700+ high-value retention targets |
+| [📉 Bank Customer Churn Analysis](https://github.com/hydromelonn229/Bank-Churn-Customer-Analysis) | Data Analytics | EDA on 10,000+ customer records, identifying a 20% churn rate and 700+ high-value retention targets |
 | [📊 HR Attrition Analysis](https://github.com/hydromelonn229/HR_data_analysis) | Workforce Analytics | 4-page Power BI dashboard across a 2M-record HR dataset covering salary equity and attrition drivers |
 | [🎬 Movie Success Optimisation](https://colab.research.google.com/drive/1l2mVwSs285kB0A5ZCgbldIYzirVIePtC) | Predictive Modelling | ML models predicting revenue and ratings from 30,000+ movie records |
 | [🚲 Cyclistic Case Study](https://github.com/hydromelonn229/Cyclistic_CaseStudy) | Marketing Analytics | 12 months of bike-share data analysed to surface behavioral trends between casual and annual riders |
